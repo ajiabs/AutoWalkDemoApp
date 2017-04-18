@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C2828400-E28C-8700-EEB0-FA7B14C9AC9C}") = "AutoWalkApp", "Assembly-CSharp-firstpass.csproj", "{2940F24F-B675-175A-37AA-1907057E4FF2}"
+EndProject
+Project("{C2828400-E28C-8700-EEB0-FA7B14C9AC9C}") = "AutoWalkApp", "Assembly-CSharp.csproj", "{FEA53998-93CB-AB53-95B4-AB403F4A487F}"
+EndProject
+Project("{C2828400-E28C-8700-EEB0-FA7B14C9AC9C}") = "AutoWalkApp", "Assembly-CSharp-Editor.csproj", "{5D431432-CCBE-4A76-E04F-AD411BFE8339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2940F24F-B675-175A-37AA-1907057E4FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2940F24F-B675-175A-37AA-1907057E4FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2940F24F-B675-175A-37AA-1907057E4FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2940F24F-B675-175A-37AA-1907057E4FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA53998-93CB-AB53-95B4-AB403F4A487F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA53998-93CB-AB53-95B4-AB403F4A487F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA53998-93CB-AB53-95B4-AB403F4A487F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA53998-93CB-AB53-95B4-AB403F4A487F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D431432-CCBE-4A76-E04F-AD411BFE8339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D431432-CCBE-4A76-E04F-AD411BFE8339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D431432-CCBE-4A76-E04F-AD411BFE8339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D431432-CCBE-4A76-E04F-AD411BFE8339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
